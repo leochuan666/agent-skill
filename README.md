@@ -1,0 +1,2 @@
+# agent-skill
+在搭建属于自己的音乐ui时，agent根据关键词推荐的歌不一定都符合要求，该skill可以帮助agent将音乐从不同角度分类
